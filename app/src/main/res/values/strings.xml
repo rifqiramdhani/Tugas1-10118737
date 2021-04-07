@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tugas1 - 10118737</string>
+
+    <string name="judulLogin">Halaman Login</string>
+    <string name="judulRegister">Halaman Register</string>
+    <string name="judulProfile">Halaman Profile</string>
+
+
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="kelas">Kelas</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="username">Username</string>
+
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+</resources>
